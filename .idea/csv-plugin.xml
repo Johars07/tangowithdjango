@@ -10,6 +10,27 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\tango_with_django_project\populate_rango.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\tango_with_django_project\rango\admin.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\tango_with_django_project\rango\models.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\tango_with_django_project\rango\tests_chapter3.py">
           <value>
             <Attribute>

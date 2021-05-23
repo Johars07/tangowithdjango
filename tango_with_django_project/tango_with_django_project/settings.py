@@ -128,4 +128,4 @@ STATICFILES_DIRS = [STATIC_DIR, ]
 
 #media variables
 MEDIA_ROOT = MEDIA_DIR
-MEDIA_URL = '/media/
+MEDIA_URL = '/media/'
